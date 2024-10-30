@@ -7,6 +7,20 @@ The keyboard named [corne](https://github.com/foostan/crkbd/tree/main) was desig
 
 This is a case for corneV3 with a slight tilt.
 
-![image1](./image1.jpg)
+## Case
 
-![image2](./image2.jpg)
+![imageA1](./image/imageA1.jpg)
+
+![imageA2](./image/imageA2.jpg)
+
+## CaseB
+
+![imageB1](./image/imageB1.jpg)
+
+![imageB2](./image/imageB2.jpg)
+
+## photo
+
+![image3](./image/image3.jpg)
+
+![image4](./image/image4.jpg)
